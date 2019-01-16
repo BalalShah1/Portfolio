@@ -529,7 +529,7 @@ figcaption {
   padding: 8px;
   border-radius: 100px;
   background-color: #d32231;
-  box-shadow: 0 0 6px 0 #fff;
+  box-shadow: 0 0 7px 0 #fff;
   -webkit-transition: background-color 150ms ease;
   transition: background-color 150ms ease;
   color: #fff;
@@ -1619,6 +1619,10 @@ figcaption {
 
 .link-block-14 {
   margin-top: 150px;
+}
+
+.image-23 {
+  opacity: 1;
 }
 
 html.w-mod-js *[data-ix="fade-in-bottom-page-loads"] {
